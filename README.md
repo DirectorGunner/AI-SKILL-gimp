@@ -2,7 +2,9 @@
 
 > _Task-routed, faithful GIMP 3.2 reference for editing and generating raster images and for automating GIMP through Script-Fu, Python-Fu, and the Procedural Database._
 
-Part of **[Agent Kaizen](https://github.com/DirectorGunner/agent-kaizen)** — continuously improving how AI agents reason, act, verify, and operate inside project environments. This repository is the `gimp` skill: a reusable, trigger-rich task handbook that an AI coding agent (OpenAI Codex, Claude Code) loads on demand when a task matches its triggers.
+Part of **[Agent Kaizen](https://github.com/DirectorGunner/agent-kaizen)** — Agent Kaizen is designed to support reliable AI agent workflows, context engineering, and AI systems engineering in VS Code, Codex, and Claude Code. Build reusable agent skills, reduce unnecessary context loading, add validation loops, and apply Spec → Verifier → Environment scaffolding to new and existing projects.
+
+This repository is the `gimp` skill: a reusable, trigger-rich task handbook that an AI coding agent (OpenAI Codex, Claude Code) loads on demand when a task matches its triggers.
 
 ## What this skill covers
 
